@@ -1,2 +1,9 @@
 node_modules
 bower_components
+npm-debug.log
+app.css
+app.min.css
+app.js
+app.min.js
+vendor.js
+index.html
